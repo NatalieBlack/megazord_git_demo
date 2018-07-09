@@ -3,3 +3,4 @@ Learning Git is fun and difficult.
 
 
 Are you excited for learning HTML tomorrow?
+Are you excited for learning CSS tomorrow?
