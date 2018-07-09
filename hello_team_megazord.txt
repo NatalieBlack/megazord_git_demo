@@ -1,2 +1,5 @@
 Welcome to your first day at bitmaker!!!!!!!!!!!
 Learning Git is fun and difficult.
+
+
+Are you excited for learning HTML tomorrow?
